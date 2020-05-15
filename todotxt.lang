@@ -27,7 +27,7 @@
   <metadata>
     <property name="mimetypes">text/plain</property>
     <property name="globs">todo.txt;done.txt</property>
-    <!--property name="line-comment-start">// </property-->
+    <property name="line-comment-start">#</property>
   </metadata>
 
 
