@@ -26,7 +26,7 @@
 <language id="todotxt" _name="todo.txt" version="2.0" _section="Markup">
   <metadata>
     <property name="mimetypes">text/plain</property>
-    <property name="globs">todo.txt;done.txt</property>
+    <property name="globs">/home/jack/txt/*.txt;/home/jack/done/*.txt</property>
     <property name="line-comment-start">#</property>
   </metadata>
 
